@@ -1,5 +1,5 @@
 <h1>Hi, Willie, an IT Professional <a href="https://linkedin.com/in/willie-curtis-752020121>IT Professional</a>☺</h1>
-
+ 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
