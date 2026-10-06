@@ -1,4 +1,4 @@
-<h1>Hi, Willie, an <a href="https://linkedin.com/in/willie-curtis-752020121">IT Professional</a>☺</h1>
+<h1>Hi, I'm Willie, an <a href="https://linkedin.com/in/willie-curtis-752020121">IT Professional</a>☺</h1>
 
 
  
